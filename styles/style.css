@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.sofa{
+    display: block;
+    margin: auto;
+   
+}
+
+.h2Text{
+    text-align: center;
+    font-size: 4rem;
+    margin-top: 0%;
+}
+
+.text{
+    text-align: center;
+    display:block;
+}
+
+.footertext{
+    text-align: center;
+    display:block;
+    border: 1px solid;
+}
+
+.row{
+    display: table;
+    text-align: center;
+}
+
+.column{
+    display: inline-block;
+    width: 15%;
+    text-align: left;
+    padding: 1%;
+}
